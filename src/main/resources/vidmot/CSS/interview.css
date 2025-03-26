@@ -1,0 +1,22 @@
+.main-Background{
+    -fx-background-color: #dda15e;
+}
+
+.secondary-Background{
+    -fx-background-color: #ecc8af;
+}
+
+.main-font{
+    -fx-font-size: 14;
+    -fx-font-family: Arial;
+}
+
+.bigger-font{
+    -fx-font-size: 20;
+    -fx-font-family: Arial;
+}
+
+.button{
+    -fx-background-color: #495867;
+    -fx-text-fill: white;
+}

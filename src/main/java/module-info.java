@@ -3,6 +3,6 @@ module com.example.interviewtrainer {
     requires javafx.fxml;
 
 
-    opens com.example.interviewtrainer to javafx.fxml;
-    exports com.example.interviewtrainer;
+    opens vidmot to javafx.fxml;
+    exports vidmot;
 }
